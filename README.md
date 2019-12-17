@@ -1,24 +1,26 @@
 # Project-Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was created using rails 6 it demonstrates the use and creation of models, also associations between them.
 
-Things you may want to cover:
+Build with love and passion for coding :heartbeat:
 
-* Ruby version
+# Getting Started
 
-* System dependencies
+To validate the database and associations use `$ rails console` to start a ruby-rails console. 
+You can check Users.all to check the existing user it has a comment and a post linked already.
 
-* Configuration
+# Created by
 
-* Database creation
+Ukeje Michgolden  https://github.com/mikenath223 
 
-* Database initialization
+Mario Dena https://github.com/mariodena
 
-* How to run the test suite
+# Dependencies
 
-* Services (job queues, cache servers, search engines, etc.)
+Rails 6.0.2
 
-* Deployment instructions
+Ruby 2.6.5
 
-* ...
+# License 
+
+This project is released under MIT license, check the License file for more information.
