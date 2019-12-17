@@ -5,7 +5,5 @@ class Post < ApplicationRecord
   validates_associated :comments
   validates :body, presence: true, length: { maximum: 128 }
 
-  # relations
   belongs_to :user
-  has_many :comments
 end
